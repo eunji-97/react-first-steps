@@ -8,6 +8,8 @@
 - [엘리먼트 렌더링](docs/04-엘리먼트_랜더링.md)
 - [컴포넌트와 props](docs/05-컴포넌트와_props.md)
 - [state와 생명주기](docs/06-state와_생명주기.md)
+- [훅](docs/07-훅.md)
+- [이벤트 핸들러](docs/08-이벤트_핸들링.md)
 ---
 
 ## 🧪 실습 코드 구조
@@ -15,3 +17,5 @@
 - `src/chapter_04` : 시계 만들기 예제
 - `src/chapter_05` : 댓글 목록 만들기 예제
 - `src/chapter_06` : 알림 메시지 예제
+- `src/chapter_07` : 카운트 세기 예제
+- `src/chapter_08` : 이벤트 핸들링 예제
