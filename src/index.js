@@ -11,12 +11,13 @@ import Accommodate from './chapter_07/Accommodate';
 import ConfirmButton from './chapter_08/ConfirmButton_class';
 import ConfirmButtonFunction from './chapter_08/ConfirmButton_function';
 import LanningPage from './chapter_09/LanningPage';
+import AttendanceBook from './chapter_10/AttrendanceBook';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <React.StrictMode>
-    <LanningPage />
+    <AttendanceBook />
   </React.StrictMode>
 );
 
