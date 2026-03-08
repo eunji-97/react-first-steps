@@ -14,6 +14,7 @@
 - [리스트와 키](docs/10-리스트와_키.md)
 - [폼](docs/11-폼.md)
 - [state 끌어올리기](docs/12-state_끌어올리기.md)
+- [합성 vs 상속](docs/13-합성_vs_상속.md)
 ---
 
 ## 🧪 실습 코드 구조
@@ -27,3 +28,4 @@
 - `src/chapter_10` : 리스트 예제
 - `src/chapter_11` : 폼 입력받기 예제
 - `src/chapter_12` : 온도 변환기 예제
+- `src/chapter_13` : 합성 예제
